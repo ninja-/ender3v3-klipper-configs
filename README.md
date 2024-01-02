@@ -5,5 +5,6 @@ I wanted to use the G-sensor and input shaping, so imagine my disappointment aft
 a) the built-in Nebula tablet _does run_ Klipper with G-shaping feature, but the sensor I ordered came with barrel connector and Nebula needs a seperate sensor<->usb c cable that you can only order on Aliexpress. Ugh!  
 b) the sonic pad which I paid a ton of money for, _does not support_ 3V3 KE, only SE!  
   
-After 2 days of hacking, and 100 failed configs, I was able to fully run 3v3 KE with input shaping using this new config...
+After 2 days of hacking, and 100 failed configs, I was able to fully run 3v3 KE with input shaping using this new config...  
 
+Also, I give to you, previously unreleased anywhere, set of Klipper configs straight from hacked Nebula firmware
